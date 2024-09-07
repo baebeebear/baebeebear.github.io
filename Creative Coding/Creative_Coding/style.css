@@ -1,0 +1,16 @@
+body{
+    background-color:lightgoldenrodyellow;
+    margin:10px;
+    padding:10px;
+}
+p{
+    font-family:monospace;
+    font-size:x-large;
+}
+a:visited{
+    color:mediumblue;
+    font-size:medium;
+}
+a:hover{
+    font-size:2em;
+}
